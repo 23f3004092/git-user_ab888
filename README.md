@@ -1,6 +1,6 @@
 # GitHub User Info App
 
-This is a simple web application that allows you to look up information about GitHub users.
+This is a web application that allows you to look up information about GitHub users, now with improved UI/UX.
 
 ## Features
 
@@ -15,6 +15,8 @@ This is a simple web application that allows you to look up information about Gi
     *   Account creation date
     *   Link to GitHub profile
 *   Error handling for invalid usernames and API issues.
+*   Improved UI/UX design with animations and a modern look.
+*   Success animation on successful data fetch.
 
 ## How to Use
 
@@ -32,4 +34,4 @@ This is a simple web application that allows you to look up information about Gi
 
 ## Deployment
 
-This app can be deployed using GitHub Pages.  Simply push the `index.html` file and supporting files to a GitHub repository, enable GitHub Pages in the repository settings, and your app will be live at the provided URL.
+This app can be deployed using GitHub Pages. Simply push the `index.html` file and supporting files to a GitHub repository, enable GitHub Pages in the repository settings, and your app will be live at the provided URL.
